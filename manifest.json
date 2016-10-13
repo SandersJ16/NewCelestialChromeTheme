@@ -1,0 +1,46 @@
+{
+   "name": "Celestial Lights",
+   "short_name": "Celestial Lights",
+   "description": "The glorious beauty of the northern lights and aurora borealis.",
+   "manifest_version": 2,
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 225, 225, 225 ],
+         "frame": [ 225, 225, 225 ],
+         "frame_inactive": [ 1, 4, 13 ],
+         "frame_incognito_inactive": [ 1, 4, 13 ],
+         "frame_incongnito": [ 1, 4, 13 ],
+         "ntp_background": [ 1, 67, 83 ],
+         "ntp_header": [ 225, 225, 225 ],
+         "ntp_link": [ 225, 225, 225 ],
+         "ntp_section": [ 225, 225, 225 ],
+         "ntp_section_link": [ 225, 225, 225 ],
+         "ntp_section_link_underline": [ 225, 225, 225 ],
+         "ntp_section_text": [ 225, 225, 225 ],
+         "ntp_text": [ 225, 225, 225 ],
+         "tab_background_text": [ 225, 225, 225 ],
+         "tab_text": [ 225, 225, 225 ],
+         "toolbar": [ 1, 67, 83 ]
+      },
+      "images": {
+         "theme_frame": "images/frame.png",
+         "theme_frame_inactive": "images/inactive_frame.png",
+         "theme_ntp_background": "images/celestiallights.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "center",
+         "ntp_background_repeat": "no-repeat",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "background_tab": [ 0.65, 0.5, 0.3 ],
+         "buttons": [ 0.65, 0.99, 0.95 ],
+         "frame_inactive": [ 0.6, 0.5, 0.5 ],
+         "frame_incognito": [ 0.6, 0.5, 0.5 ],
+         "frame_incognito_inactive": [ 0.6, 0.5, 0.5 ]
+      }
+   },
+   "version": "1.7"
+}
