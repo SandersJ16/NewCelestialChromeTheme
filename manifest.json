@@ -20,7 +20,8 @@
          "ntp_text": [ 225, 225, 225 ],
          "tab_background_text": [ 225, 225, 225 ],
          "tab_text": [ 225, 225, 225 ],
-         "toolbar": [ 1, 67, 83 ]
+         "toolbar": [ 1, 67, 83 ],
+         "button_background" : [255, 255, 255]
       },
       "images": {
          "theme_frame": "images/frame.png",
